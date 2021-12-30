@@ -1,5 +1,5 @@
 # cas-overlay-template
-This is CAS Apereo open-source (https://github.com/apereo/cas-overlay-template) that we customize for research purposes.
+This is CAS Apereo open-source (https://github.com/apereo/cas-overlay-template) that I have customized for research purposes.
 # Dependencies
 
 - JDK `11`
