@@ -1,11 +1,11 @@
 # cas-overlay-template
 This is CAS Apereo open-source (https://github.com/apereo/cas-overlay-template) that I have customized for research purposes.
-# Dependencies
+## Dependencies
 - OS: Ubuntu `16.04` - `20.04`
 - JDK `11`
 - MongoDB version `4.4`
 
-# Run
+## Run
 
 To run the project, use:
 
@@ -14,7 +14,7 @@ To run the project, use:
 ./gradlew run
 ```
 
-# Get OAuth2 JWT Token 
+## Get OAuth2 JWT Token 
 
 To run the project, use:
 
