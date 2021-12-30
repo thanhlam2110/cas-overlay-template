@@ -8,6 +8,6 @@
 To run the project, use:
 
 ```bash
-# Use --refresh-dependencies to force-update SNAPSHOT versions
+# Use 
 ./gradlew run
 ```
