@@ -13,7 +13,7 @@ To run the project, use:
 ./gradlew run
 ```
 
-# Get JWT Token 
+# Get OAuth2 JWT Token 
 
 To run the project, use:
 
