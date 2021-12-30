@@ -1,8 +1,9 @@
 # cas-overlay-template
 This is CAS Apereo open-source (https://github.com/apereo/cas-overlay-template) that I have customized for research purposes.
 # Dependencies
-
+- OS: Ubuntu `16.04` - `20.04`
 - JDK `11`
+- MongoDB version `4.4`
 
 # Run
 
